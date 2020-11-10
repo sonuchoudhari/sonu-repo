@@ -1,1 +1,1 @@
-This my st text file for git testing
+This my st text file for git testing with 2nd commit
